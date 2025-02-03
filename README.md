@@ -89,6 +89,5 @@ Exploratory Data Analysis (EDA) was conducted to uncover patterns and relationsh
 
 Machine learning algorithms like Decision Tree, Random Forest, and Gradient Boosting were applied. Gradient Boosting emerged as the best-performing model, delivering superior accuracy.
 
-Conclusion:
 
 The purpose of undertaking this project is to reduce accident rates by identifying and highlighting the key causes of road accidents. By understanding these factors, the project aims to contribute to enhancing road safety and ultimately benefit humankind.
