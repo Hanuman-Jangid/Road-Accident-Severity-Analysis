@@ -82,3 +82,13 @@ Variables:
 •	Cause of accident: What was the cause of an accident?
 
 •	Accident severity: How severe an accident was.
+
+Statistical Techniques and Machine learning algorithms used:
+
+Exploratory Data Analysis (EDA) was conducted to uncover patterns and relationships among variables. Key insights were visualized using pie charts and bar plots, providing a clear understanding of the data.
+
+Machine learning algorithms like Decision Tree, Random Forest, and Gradient Boosting were applied. Gradient Boosting emerged as the best-performing model, delivering superior accuracy.
+
+Conclusion:
+
+The purpose of undertaking this project is to reduce accident rates by identifying and highlighting the key causes of road accidents. By understanding these factors, the project aims to contribute to enhancing road safety and ultimately benefit humankind.
